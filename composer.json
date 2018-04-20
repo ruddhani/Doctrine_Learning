@@ -1,0 +1,25 @@
+{
+    "name": "doctrine/sample-project",
+    "description": "This is a sample project for demonstrating doctrine and it's features",
+    "type": "project",
+    "require": {
+        "doctrine/orm": "^2.4.8",
+        "doctrine/doctrine-bundle": "~1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aniruddha Banerjee",
+            "email": "abaner17@its.jnj.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "vendor-dir": "packages"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
