@@ -1,5 +1,5 @@
 # doctrine
-The doctrine methods described with sample codes from https://www.doctrine-project.org
+Various doctrine methods described with sample codes from https://www.doctrine-project.org
 
 What's inside?
 --------------
@@ -25,4 +25,4 @@ _php createBug.php bugdesc 1_
 * _php findByPagination.php _
 * _php findNativeQuery.php _
 
-Also find the doument and API : [Doctrine project|https://www.doctrine-project.org]
+Read more @ courtesy : [Doctrine project|https://www.doctrine-project.org]
