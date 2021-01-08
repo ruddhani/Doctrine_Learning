@@ -1,8 +1,10 @@
-# doctrine
-Various doctrine methods described with sample codes from https://www.doctrine-project.org
+# Doctrine_Learning
+Doctrine is the most effective way of database connection for PHP projects 
 
 What's inside?
 --------------
+Doctrine is a Database middleware for PHP, it uses Object Relational Mapper (ORM) and Database Abstraction Layer (DBAL) to securely and effectively interact withDatabase from your Code. This codes, which I have written, will give you the very basics of how to setup and use Doctrine in your simple PHP projects. To learn more you should refer to https://www.doctrine-project.org
+
 1. To install run _composer install_
 
 _packages/bin/doctrine orm:schema-tool:create_
